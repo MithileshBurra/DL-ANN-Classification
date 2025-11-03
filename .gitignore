@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Model and data files (optional)
+model.h5
+*.pkl
+*.csv
+log_dir/
